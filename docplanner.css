@@ -1,0 +1,190 @@
+
+ *{
+    font-family: "Poppins";
+ } 
+
+  .logo-doc {
+    width: 300px;
+    height: 30px;
+    margin-right: 250px;
+  }
+
+
+  .nav-list {
+    text-decoration: none;
+    color: #747474;
+    margin-right: 13px;
+    font-size: 15px;
+    margin-top: 4px;
+    
+  }
+  #about {
+    color: #00b39b;
+  }
+
+  li {
+    list-style: none;
+    display: inline;
+  }
+
+  .band {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    width: 900px;
+    margin-left: 300px;
+    margin-top: 15px;
+  }
+  
+  .logo-l {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 8px;
+  }
+
+  .title {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: #00b39b;
+    font-weight: 200;
+  }
+
+  .p1, .p2 {
+    display: inline-block;
+    width: 490px;
+    font-size: 15px;
+    line-height: 27px;
+    color: #747474;
+    margin-left: 15px;
+  }
+
+  .parag {
+    display: flex;
+    justify-content: center;
+  }
+
+  .section1 {
+    width: 1100px;
+    margin-left: 300px;
+    margin-top: 60px;
+    display: flex;
+    align-items: normal;
+  }
+  .info1 {
+    height: 340px;
+    width: 300px;
+    display: inline-block;
+    margin-right: 15px;
+    border-radius: 10px;
+    background-color: #00b39b;
+  }
+  .patient, .doctor, .clinic {
+    padding-left: 30px;
+    padding-top: 35px;
+    height: 27px;
+  }
+  .section1 h1 {
+    color: white;
+    padding-left: 30px;
+    margin: 0;
+    font-weight: 500;
+  }
+  .section1 h2 {
+    color: white;
+    padding-left: 30px;
+    margin: 0;
+    font-weight: 300;
+    font-size: 20px;
+    padding-right: 15px;
+    padding-top: 15px;
+  }
+  .country1 {
+    color: white;
+    background-color: #00b39b;
+    border: none;
+    padding-left: 25px;
+    font-size: 18px;
+    margin-top: 70px;
+    display: inline-block;
+    text-decoration: underline;
+  }
+  .info2 {
+    height: 340px;
+    width: 300px;
+    display: inline-block;
+    margin-right: 15px;
+    border-radius: 10px;
+    background-color: #3d83df;
+  }
+  .country2 {
+    color: white;
+    background-color: #3d83df;
+    border: none;
+    padding-left: 25px;
+    font-size: 18px;
+    margin-top: 70px;
+    display: inline-block;
+    text-decoration: underline;
+  }
+  .info3 {
+    height: 340px;
+    width: 300px;
+    display: inline-block;
+    margin-right: 15px;
+    border-radius: 10px; 
+    background-color: #1b2734;
+  }
+  .specialist1, .specialist2 {
+    color: white;
+    background-color: #1b2734;
+    border: none;
+    padding-left: 25px;
+    font-size: 18px;
+    margin-top: 20px;
+    display: inline-block;
+    text-decoration: underline;
+  }
+  .section1 h1 {
+    color: white;
+    padding-left: 30px;
+    margin: 0;
+    font-weight: 500;
+  }
+  .section1 h2 {
+    color: white;
+    padding-left: 30px;
+    margin: 0;
+    font-weight: 300;
+    font-size: 20px;
+    padding-right: 15px;
+    padding-top: 15px;
+  }
+  
+.section2 {
+    display: flex;
+    border: red solid 1px;
+    width: 1100px;
+    margin-left: 300px;
+    margin-top: 40px;
+    align-items: normal;
+}
+.section2 h1 {
+    color: #00b39b;
+    padding-left: 30px;
+    margin: 0;
+    font-weight: 200;
+    font-size: 23px;
+    padding-right: 15px;
+    padding-top: 15px;
+}
+
+
+.sites {
+    display: grid;
+}
+
+.znanylekarz {
+
+}
